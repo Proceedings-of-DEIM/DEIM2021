@@ -111,7 +111,7 @@
 
 ## 論文一覧
 
-<section markdown="1" id="A11">
+<section id="A11">
 
 #### *[A11]* **グラフ&#9312;**
 
@@ -119,7 +119,6 @@
 * **A11-2** *平方俊行 (筑波大学), 天笠俊之 (筑波大学)* [分散RDFストリーム処理システムにおける複数フィルタリング最適化](./papers/A11-2.pdf)
 * **A11-3** *Tarek Aoukar (Tokyo Institute of Technology ), Jun Miyazaki (Tokyo Institute of Technology )* [Evaluation and Analysis of Graph Navigation query in Edge Streaming Database](./papers/A11-3.pdf)
 * **A11-4** *山口航 (東京工業大学), 宮崎純 (東京工業大学)* [同期的な分散グラフ処理におけるサブグラフ単位での負荷分散手法](./papers/A11-4.pdf)
-
 </section>
 
 <section markdown="1" id="B11">
