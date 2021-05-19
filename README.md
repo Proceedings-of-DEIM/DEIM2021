@@ -30,6 +30,19 @@
 * 横山 昌平 *(東京都立大学)* **【実行委員長】**
 * 的野 晃整 *(産業技術総合研究所)* **【プログラム委員長】**
 
+## 論文賞
+
+### 最優秀論文賞
+
+* **I25-3** *伊藤寛祥 (筑波大学), Christos Faloutsos (Carnegie Mellon University)* [動的なソーシャルネットワークにおける興味関心の伝搬を考慮した将来予測](./papers/I25-3.pdf)
+
+### 優秀論文賞
+
+* **D14-5** *雨宮佑基 (早稲田大学), 酒井哲也 (早稲田大学)* [スタンス検出タスクにおける評価方法の選定](./papers/D14-5.pdf)
+* **A14-4** *Hung-Nghiep Tran (National Institute of Informatics), Atsuhiro Takasu (National Institute of Informatics)* [Towards Efficient and Expressive Knowledge Graph Embedding for Link Prediction](./papers/A14-4.pdf)
+* **I21-2** *小林正樹 (筑波大学), 若林啓 (筑波大学), 森嶋厚行 (筑波大学)* [人間+AIクラウドの相互作用によるタスク結果品質の管理手法](./papers/I21-2.pdf)
+* **A31-3** *磯川弘基 (東大), 豊田正史 (東大生研), 梅本和俊 (東大生研), 商海川 (東大生研・情報通信研究機構), 是津耕司 (情報通信研究機構), 喜連川優 (東大生研・国立情報学研究所)* [携帯電話人口統計および施設情報の複合非負値行列因子分解に基づく都市動態の変化点検知](./papers/A31-3.pdf)
+
 ## セッション一覧
 
 [&#x1f53c;Top](#)
